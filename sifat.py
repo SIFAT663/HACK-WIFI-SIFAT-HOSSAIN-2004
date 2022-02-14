@@ -34,7 +34,7 @@ print('''
 ROOT Phone pkg:\npkg install -y root-repo\n
 pkg install -y git tsu python wpa-supplicant pixiewps iw\n
 computer Linux pkg:\nsudo apt install -y python3 wpasupplicant iw wget\n
-One line Command:\nsudo python sifat-hossain/sifat.py -i wlan0 -K\n
+One line Command:\nsudo python sifat663/sifat.py -i wlan0 -K\n
 For Help Type:\nsudo python sifat.py -i wlan0 -K\033[0m
 ''')
 class NetworkAddress:
