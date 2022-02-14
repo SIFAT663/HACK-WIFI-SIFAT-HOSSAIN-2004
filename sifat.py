@@ -30,7 +30,7 @@ print("""
                                 
        """)
 print('''
-\033[1;92m Developer:- Rejaul karim prince \n
+\033[1;92m i am hacker sifat  hossain 2004 \n
 ROOT Phone pkg:\npkg install -y root-repo\n
 pkg install -y git tsu python wpa-supplicant pixiewps iw\n
 computer Linux pkg:\nsudo apt install -y python3 wpasupplicant iw wget\n
