@@ -33,8 +33,8 @@ print('''
 \033[1;92m i am hacker sifat  hossain 2004 \n
 ROOT Phone pkg:\npkg install -y root-repo\n
 pkg install -y git tsu python wpa-supplicant pixiewps iw\n
-computer Linux pkg:\nsudo apt install -y python3 wpasupplicant iw wget\n
-One line Command:\nsudo python sifat-hossain/sifat.py -i wlan0 -K\n
+Contacts for Help Centre:\nhttps://www.facebook.com/SIFAT663\n
+One line Command:\nsudo python HACK-WIFI-SIFAT-HOSSAIN-2004/sifat.py -i wlan0 -K\n
 For Help Type:\nsudo python sifat.py -i wlan0 -K\033[0m
 ''')
 class NetworkAddress:
